@@ -9,6 +9,11 @@
   "permissions": [
     "webRequest"
   ],
+  "host_permissions": [
+    "*://*.baidu.com/*",
+    "*://*.bing.com/*",
+    "*://*.chichi.com/*"
+  ],
   "action": {
     "default_popup": "hello.html",
     "default_icon": "hello_extensions.png"
