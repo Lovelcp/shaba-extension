@@ -12,6 +12,8 @@
   "host_permissions": [
     "*://*.baidu.com/*",
     "*://*.bing.com/*",
+    "*://*.s-qec.com/*",
+    "*://*.win1197.com/*",
     "*://*.chichi.com/*"
   ],
   "action": {
